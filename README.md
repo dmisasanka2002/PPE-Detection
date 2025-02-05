@@ -40,7 +40,7 @@ The YOLO model detects the following classes:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/ppe-detection.git
+   git clone https://github.com/dmisasanka2002/PPE-Detection.git
    cd ppe-detection
    ```
 
